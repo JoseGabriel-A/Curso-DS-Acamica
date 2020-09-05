@@ -1,0 +1,6 @@
+*.pdf
+*.jpg
+*.png
+.ipynb_checkpoints/
+*.csv
+DS_Encuentro_15_ML_RESUELTO.ipynb
